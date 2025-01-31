@@ -20,12 +20,19 @@ import {
   SiC,
   SiLinux,
   SiAdobexd,
+  SiTypescript,
 } from "react-icons/si";
 import { DiMysql } from "react-icons/di";
 import man from "../../../assets/man.json";
 
-const MySkill = () => {
-  const languages = [
+// Defining the type for skill items
+interface SkillItem {
+  title: string;
+  icon: JSX.Element;
+}
+
+const MySkill: React.FC = () => {
+  const languages: SkillItem[] = [
     { title: "HTML", icon: <FaHtml5 className="text-orange-600" /> },
     { title: "CSS", icon: <FaCss3Alt className="text-blue-400" /> },
     {
@@ -36,14 +43,17 @@ const MySkill = () => {
     { title: "PHP", icon: <SiPhp className="text-purple-500" /> },
     { title: "C", icon: <SiC className="text-blue-600" /> },
   ];
-  const frameworks = [
+
+  const frameworks: SkillItem[] = [
     { title: "React", icon: <FaReact className="text-cyan-400" /> },
     { title: "Bootstrap", icon: <FaBootstrap className="text-indigo-600" /> },
     { title: "Tailwind", icon: <SiTailwindcss className="text-cyan-400" /> },
     { title: "NodeJS", icon: <FaNodeJs className="text-green-600" /> },
     { title: "ExpressJS", icon: <SiExpress className="text-neutral" /> },
+    { title: "TypeScript", icon: <SiTypescript className="text-neutral" /> },
   ];
-  const tools = [
+
+  const tools: SkillItem[] = [
     { title: "MongoDB", icon: <SiMongodb className="text-green-500" /> },
     { title: "MySQL", icon: <SiMysql className="text-blue-600" /> },
     { title: "AWS", icon: <SiAmazonaws className="text-orange-500" /> },
@@ -51,7 +61,8 @@ const MySkill = () => {
     { title: "Linux", icon: <SiLinux className="text-yellow-500" /> },
     { title: "UI/UX Design", icon: <SiAdobexd className="text-pink-500" /> },
   ];
-  const exposedTo = [
+
+  const exposedTo: SkillItem[] = [
     { title: "SQL", icon: <DiMysql className="text-blue-700" /> },
     { title: "Python DSA", icon: <SiPython className="text-blue-500" /> },
     { title: "Power BI", icon: <SiAmazonaws className="text-yellow-600" /> },
@@ -75,13 +86,13 @@ const MySkill = () => {
         <div>
           <h2 className="text-cyan-500 text-xl font-semibold">Languages:</h2>
           <div className="flex flex-wrap mb-4">
-            {languages?.map((skill) => (
+            {languages.map((skill) => (
               <div key={skill.title} className="text-center m-3">
                 <div
                   className="rounded-lg h-12 w-12 hover:-translate-y-2 duration-300 flex items-center justify-center text-3xl cursor-pointer shadow-lg hover:shadow-xl bg-[#313131] hover:bg-[#262626] mx-auto"
                   title={skill.title}
                 >
-                  {skill?.icon}
+                  {skill.icon}
                 </div>
               </div>
             ))}
@@ -90,13 +101,13 @@ const MySkill = () => {
             Library & Frameworks:
           </h2>
           <div className="flex flex-wrap mb-4">
-            {frameworks?.map((skill) => (
+            {frameworks.map((skill) => (
               <div key={skill.title} className="text-center m-3">
                 <div
                   className="rounded-lg h-12 w-12 hover:-translate-y-2 duration-300 flex items-center justify-center text-3xl cursor-pointer shadow-lg hover:shadow-xl bg-[#313131] hover:bg-[#262626] mx-auto"
                   title={skill.title}
                 >
-                  {skill?.icon}
+                  {skill.icon}
                 </div>
               </div>
             ))}
@@ -105,26 +116,26 @@ const MySkill = () => {
             Tools & Technologies:
           </h2>
           <div className="flex flex-wrap mb-4">
-            {tools?.map((skill) => (
+            {tools.map((skill) => (
               <div key={skill.title} className="text-center m-3">
                 <div
                   className="rounded-lg h-12 w-12 hover:-translate-y-2 duration-300 flex items-center justify-center text-3xl cursor-pointer shadow-lg hover:shadow-xl bg-[#313131] hover:bg-[#262626] mx-auto"
                   title={skill.title}
                 >
-                  {skill?.icon}
+                  {skill.icon}
                 </div>
               </div>
             ))}
           </div>
           <h2 className="text-cyan-500 text-xl font-semibold">Exposed To:</h2>
           <div className="flex flex-wrap mb-4">
-            {exposedTo?.map((skill) => (
+            {exposedTo.map((skill) => (
               <div key={skill.title} className="text-center m-3">
                 <div
                   className="rounded-lg h-12 w-12 hover:-translate-y-2 duration-300 flex items-center justify-center text-3xl cursor-pointer shadow-lg hover:shadow-xl bg-[#313131] hover:bg-[#262626] mx-auto"
                   title={skill.title}
                 >
-                  {skill?.icon}
+                  {skill.icon}
                 </div>
               </div>
             ))}

@@ -39,16 +39,7 @@ const Information = () => {
 
     return (
         <div className="parent py-16">
-            <motion.div
-                initial="hidden"
-                animate={viewDiv && "visible"}
-                variants={headingAnimation}
-            >
-                <h1 className="text-3xl font-semibold text-center">
-                    New <span className="text-primary">Information</span>
-                </h1>
-                <BottomLine />
-            </motion.div>
+           
             <div className="mt-10">
                 <motion.div
                     className="grid grid-cols-1 md:grid-cols-3 gap-8"
@@ -93,12 +84,7 @@ const Information = () => {
                 to="/blog"
                 className="text-1xl hover:text-primary duration-300"
             >
-                <button className="primary-button">
-                    <span>See All</span>
-                    <span>
-                        <FaAngleRight />
-                    </span>
-                </button>
+               
             </Link>
         </div>
     );

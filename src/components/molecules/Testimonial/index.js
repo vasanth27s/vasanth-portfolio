@@ -15,25 +15,20 @@ import { BottomLine } from "../../../components";
 const Reviews = [
   {
     id: 1,
-    name: "John Doe",
-    bio: "CEO, Example Inc.",
-    description: "This service was fantastic! Highly recommended.",
-    img: "https://randomuser.me/api/portraits/men/1.jpg",
+    name: "vasanth Kumar",
+    bio: "Mern Stack Developer.",
+   
+    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxv67f8ASr-QOHPO0tAcBMtouGTtte7YXZ7_OmzsAum_pi03b7evf3-92cAprgbHUlkA9SJECO7GDfX7tvYdihsyyYL9u7tsXCtLS4pAPpdY8KM1vjw3_qfDDcSUO2tRcSSstVYyB1Ij0bKGhYdqj3fQtADeLc8j8WYo1XF2n9KP7BJL-oU8IUDxHUS5o/s320/1001.jpg",
   },
   {
     id: 2,
-    name: "Jane Smith",
-    bio: "Marketing Manager",
-    description: "Amazing experience, will definitely work with them again.",
-    img: "https://randomuser.me/api/portraits/women/2.jpg",
+    name: "vasanth Kumar",
+    bio: " FullStack Developer.",
+   
+    img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxv67f8ASr-QOHPO0tAcBMtouGTtte7YXZ7_OmzsAum_pi03b7evf3-92cAprgbHUlkA9SJECO7GDfX7tvYdihsyyYL9u7tsXCtLS4pAPpdY8KM1vjw3_qfDDcSUO2tRcSSstVYyB1Ij0bKGhYdqj3fQtADeLc8j8WYo1XF2n9KP7BJL-oU8IUDxHUS5o/s320/1001.jpg",
   },
-  {
-    id: 3,
-    name: "Robert Brown",
-    bio: "Freelancer",
-    description: "Top-notch service and very professional.",
-    img: "https://randomuser.me/api/portraits/men/3.jpg",
-  },
+
+  
 ];
 
 const Testimonial = () => {
