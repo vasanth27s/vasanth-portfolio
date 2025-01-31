@@ -2,7 +2,6 @@ import React from "react";
 
 // Import the local image
 import pic10 from "C:/Projects/vasanth-portfolio/src/components/Project Images/pic10.png";
-import pic11 from "C:/Projects/vasanth-portfolio/src/components/Project Images/pic11.png";
 
 
 const Items = [
@@ -50,15 +49,9 @@ const Items = [
   },
   {
     id: 2,
-    mainImage: pic11, 
+    mainImage: pic10, 
     img: [
-      pic11, // Use the imported image variable
-      pic11,
-      pic11,
-      pic11,
-      pic11,
-      pic11,
-      pic11,
+      pic10, 
     ],
     features: [
       "Home",
