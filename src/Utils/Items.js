@@ -3,8 +3,11 @@ const Items = [
     id: 1,
     mainImage: "https://vasanth-portfolio-ochre.vercel.app/static/media/mock1.c9932682350233aaf475.png",
     img: [
-      "https://vasanth-portfolio-ochre.vercel.app/static/media/mock1.c9932682350233aaf475.png",
-      "https://vasanth-portfolio-ochre.vercel.app/static/media/mock1.c9932682350233aaf475.png",
+      "https://blogger.googleusercontent.com/img/a/AVvXsEidZmS6u_dUHi3lpZ1KBFmeyfRlx__JG_obzrp1Kqugm02uxyQTnjKfDbNqz6Rx4rPwzYvNj_C9IRvO6izhulhDDM7NXo9aCkzOJuztGRpdxdhcUvMAjVCOodDv3zNn26jEpCVGV4-UEwUhfex5UreL_CNBESHeOwzooNW1ByAVqeF50JEkbZW0JqeKHKQ",
+     
+      "https://blogger.googleusercontent.com/img/a/AVvXsEj83iBQ0N33FcLsf53BQNpV5hEnY98szjCV8QmQiEZv0lWcDLUKH5hHAyWp2g6PGiAUOyKAZHaFMLJkGWUS7Hfj_gWMUal2ulH8R58NY_QpChn8h3FjCf-z_TL5dwWG1QMvxMUtBxtLmUaut_M21SZ0aGoflDidSAHME6VrryKz3xI5mN6wW5Y038FXXZQ ",
+      "https://blogger.googleusercontent.com/img/a/AVvXsEjEjbr7vxvHApD9jrsmE_jVOB9F26RjaslEnWOhn8zcLHyOwYU6-GiJVg_y_Y5fZiYZn06XS20atlujXGPYoxdU4ohphWB_dZGlBLxPlhKnjy0mpgoAJYJquRBTMfvbTixnZzh3IN5BbObJV6NLcwXfpNgPfoIkXcTxoRPDYwATIIrRglgo1nTDLC3g59Y",
+      " https://blogger.googleusercontent.com/img/a/AVvXsEhEbr3GJsAUu1bpT07eDGbch2_x5RvnOWsp8vDAbkD4l6NVf-TFrEP7GX7ATEDldBbHBtqk2YizxLamswHdlSmx0jn8pJh8kzBhHaeHN4m8w91VCsEwvwzZIAkjoIl3Y7PKL_hs993Cpb7zg9cfWf3a32R3hMps_xhWILxCVIkks6I7tIOgyA0ALOY2v64"
       
     ],
     features: [
@@ -40,11 +43,13 @@ const Items = [
   },
   {
     id: 2,
-    mainImage: "https://vasanth-portfolio-ochre.vercel.app/static/media/mock2.d1ecf4f35773079c7439.png",
+    mainImage: "https://blogger.googleusercontent.com/img/a/AVvXsEhHijf0wx4ACL1GawuH92e1LLzoVGS8VLJa23SKrEXTU50LRqrM7TXvkAiTY11iDiNy59rmkTobNU9ajwVlm5XprKLQhQxbfrwNkkK2pzJkq_WogTt5b_HMJ5oeyvPw5VeRk8nRi_0RKcqJPL1mLq-SAqcW96VgRNV18jFgOfb6B4MrchCyMqMGGM9GAYU",
     img: [
-      "https://vasanth-portfolio-ochre.vercel.app/static/media/mock2.d1ecf4f35773079c7439.png",
-      "https://vasanth-portfolio-ochre.vercel.app/static/media/mock2.d1ecf4f35773079c7439.png",
-  
+      "https://blogger.googleusercontent.com/img/a/AVvXsEhHijf0wx4ACL1GawuH92e1LLzoVGS8VLJa23SKrEXTU50LRqrM7TXvkAiTY11iDiNy59rmkTobNU9ajwVlm5XprKLQhQxbfrwNkkK2pzJkq_WogTt5b_HMJ5oeyvPw5VeRk8nRi_0RKcqJPL1mLq-SAqcW96VgRNV18jFgOfb6B4MrchCyMqMGGM9GAYU",
+      "https://blogger.googleusercontent.com/img/a/AVvXsEgd0O4PUGmrOnKADYMH5gVo8zTlUmS6iM7rjAYS2a4kbxbQfNHsUPCO_rwhatb8tSCwydIHfgKP_HGV0q45Oufz0zJ6graroWZ9Miferq7r6CTVoFMeV3KQIm7hO4blg-EFhKx3fT0FnItSH4BlqejHSuUEFeOhyO97A2UoeHoIbFQQOuKJrJA5zlwu69I",
+      " https://blogger.googleusercontent.com/img/a/AVvXsEg8nIIZfnTgmSp4K6F8Zw1ErlVeHCT3AvGzb_hb79qdNYwLnn9Lj5RcZhnNxJZVszWif1xOSax5fCYwARMUxhPZabxc3HC34WgtvMmGkdWoAHw-Wl0SZ68qYn_hfQF5lrLcet_E-bYAj5-YnppoVwJ5cwk2NlUyKzgyu5ZyhezGxESICI8aVp6QI3l2mh4",
+    " https://blogger.googleusercontent.com/img/a/AVvXsEhN3zn-Q71E-N7UtsNFIlRqD9a0AAILI9xOhiZUqN584DYgQV2TQiGm7R1UmBga3JVO-iP4oByp1f8M686ZalVQfWo-qchqvjR1gQzJfbfuZDNZHaZ3Cc1bORHgtxef7LEMrsv7JVeJ1oBDcnWBZImadATbWhRKCYsiWDjUN2_s_WS4AO0acnDx63I_iww",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEgMAfYB4nSpmyErF-5kWiIKgWk5dMxdlKkyGR7d9n3I-Culh-CZcKvwPdL3dsntNXh6H4QtS09JO7CEJQLVaDeOpSAecI-aoDdlhtXlpcEaalLWHJ83vpIxV9MGcrk1xpqMoD2qu0PyXdcgM9EJ_MrBeE0vTvEbHsgSW34oQb81XEa5qUQfJ7IigJ-l0nQ"
     ],
     features: [
       "User registration and login",
