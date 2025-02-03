@@ -138,7 +138,10 @@ const Items = [
       
       "React JS",
       "CSS",
-      "TypeScript"
+      "TypeScript",
+       "Firebase"
+
+      
    
       
      
@@ -166,7 +169,6 @@ const Items = [
       "HTML",
       "CSS",
       "JavaScript",
-      "Firebase"
       
      
     ],
