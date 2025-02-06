@@ -99,7 +99,7 @@ const About = () => {
                 <span className="mr-2 text-primary">Address : </span>venkatagiri, AndhraPradesh
               </h2>
               <a
-                href="https://drive.google.com/file/d/1Eqozo-emKtUJ5w66UOtMo4BvQkgqwk6O/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1SfjNHQQxCBfx3AK2EyJUzgX-ejOD0-Fy/view?usp=sharing"
               >
                 <div className="flex justify-center md:justify-start translate-y-[60%] sm:translate-y-[-0%]">
                   <button className="primary-button">

@@ -80,7 +80,7 @@ export default function Navbar() {
 
             <a
               className="inline-block ml-4"
-              href="https://drive.google.com/file/d/1Eqozo-emKtUJ5w66UOtMo4BvQkgqwk6O/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1SfjNHQQxCBfx3AK2EyJUzgX-ejOD0-Fy/view?usp=sharing"
             >
               <PrimaryBtn>
                 <span>Resume</span>
@@ -127,7 +127,7 @@ export default function Navbar() {
                 <li className="text-center m-4">
                   <a
                     className="inline-block w-full"
-                    href="https://drive.google.com/file/d/1Eqozo-emKtUJ5w66UOtMo4BvQkgqwk6O/view?usp=drive_link"
+                    href="https://drive.google.com/file/d/1SfjNHQQxCBfx3AK2EyJUzgX-ejOD0-Fy/view?usp=sharing"
                   >
                     <button className="primary-button w-full text-white">
                       <span>Resume</span>

@@ -50,7 +50,7 @@ const Footer = () => {
          
           <a
             className="text-xl inline-bloc mx-6 text-neutral"
-            href="https://drive.google.com/file/d/1Eqozo-emKtUJ5w66UOtMo4BvQkgqwk6O/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1SfjNHQQxCBfx3AK2EyJUzgX-ejOD0-Fy/view?usp=sharing"
             rel="noopener noreferrer"
           >
             Resume

@@ -53,7 +53,7 @@ const Banner = () => {
 
         <div className="flex items-center translate-y-[-60%] sm:translate-y-[-0%]">
           <a
-            href="https://drive.google.com/file/d/1Eqozo-emKtUJ5w66UOtMo4BvQkgqwk6O/view?usp=sharing"
+            href="https://drive.google.com/file/d/1SfjNHQQxCBfx3AK2EyJUzgX-ejOD0-Fy/view?usp=sharing"
           >
             <button className="primary-button">
               <span>My Resume</span>
