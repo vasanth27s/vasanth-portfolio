@@ -119,8 +119,98 @@ const Items = [
     liveLink: "https://vk-ig-downloader.vercel.app/",
     codeLink: "https://github.com/vasanth27s/ig-downloader",
   },
-  {
+   {
     id: 4,
+    mainImage: "https://blogger.googleusercontent.com/img/a/AVvXsEjIPsDJV5UX_gA6h6LRZRRvjwP6SB2Qq9iGPxOZV7mz72G5N_Uegy5HHnk7x14jAAhIRgYOohM41KTiehj1PQsjeAknHaxEw7tmlLjM-FSU4R37A3sYW8mNcvbF9b5nL3Vjxay_YXIYPl3uyAvlMwe2h2TK4iyFBWK3nFweZ-O4AmzLVTnGj2oMQkByPsE",
+    img: [
+     "https://blogger.googleusercontent.com/img/a/AVvXsEjIPsDJV5UX_gA6h6LRZRRvjwP6SB2Qq9iGPxOZV7mz72G5N_Uegy5HHnk7x14jAAhIRgYOohM41KTiehj1PQsjeAknHaxEw7tmlLjM-FSU4R37A3sYW8mNcvbF9b5nL3Vjxay_YXIYPl3uyAvlMwe2h2TK4iyFBWK3nFweZ-O4AmzLVTnGj2oMQkByPsE ",
+     "https://blogger.googleusercontent.com/img/a/AVvXsEiP6XeHHadeSSsENnT8y5esey4QeU2m-rXrOnTWbTF8a4YG0Uw5AuKWzSYUx54T4rw3tO0GrWMkYBqZUjH6R-Sh-SG9HE3Oqc7Wrfz5eG9C9JlHfSMAf3WpW-NaJ25mMLTG-cVxk2KsTKZM7Ag7U9IjsRfmeTpwpAxUNIx4-4m6IREnB36i2xsd-SUeiCQ ",
+     "https://blogger.googleusercontent.com/img/a/AVvXsEj4mFW4E3u2sQXRPzAjxdg_uS17nMZ9FypWT8sFEGmtCNvLpiHpKXKVVToYW0axSC6PIFnwR4uca8yr92QrqEuTpVOAQY2sFdiMMd9M5Yir5593E4Pjg-sYm8ZLqAyAtZvn6A5z2IUb_3fj59L2FSLjOI98g5xOgwKa_5Nav8M3tCOdq_uzeSXO5pqbrFo ", 
+     "https://blogger.googleusercontent.com/img/a/AVvXsEj-ZTYzMMpjMYQP94hasG1dwFkP_WY5rshp9S1e4J_08FlbFZLBjkL-tL2rS4dQPCFKJB1cm3zf8vmO0V_loEHjS2F06lSfUu0q2hJNsvHwwKN0sQ0kPJoiqrFzxpixIpQigTuVrRWIUktab4V4Bg4khCxUKab3fu8-8nNYcg2tz9Is4RDobY6sYQgCkL0 ", 
+     
+      ],
+    features: [
+     
+      "Appointment Booking – Users can schedule, reschedule, or cancel appointments",
+
+"Real-Time Updates – Live appointment status updates using WebSockets.",
+
+"Admin Dashboard – Admins can manage users, view analytics, and oversee bookings.",
+
+"Responsive UI – Mobile-friendly design using Tailwind CSS.",
+
+"Data Storage & API Management – MongoDB for database storage and Postman for API testing."
+    ],
+    technologies: [
+      
+      
+      "React.js (UI development)",
+      "Redux Toolkit (State management)",
+      "Tailwind CSS (Styling)",
+      "Axios (API calls)",
+      "Node.js & Express.js (Server-side logic)",
+      "MongoDB (Database)",
+      "Mongoose (ORM for MongoDB)",
+      "WebSockets (Real-time updates)",
+      "Postman (API testing)",
+      "Git & GitHub (Version control)",
+      "CSS",
+     
+    ],
+    title: "Vk Medi ",
+    description:
+      "VK Media Appointment is a full-stack MERN (MongoDB, Express.js, React, Node.js) application designed to streamline appointment scheduling and management. This platform allows users to book, manage, and track appointments efficiently, integrating a user-friendly interface with a robust backend.",
+    liveLink: "https://vk-medi.vercel.app/",
+    codeLink: "https://github.com/vasanth27s/vk-medi.git",
+  },
+  {
+    id: 5,
+    mainImage: "https://blogger.googleusercontent.com/img/a/AVvXsEhObp-GF7PGG-aRGCnZG8rXVDrrsNRA9BmwwYwAdxw4oRBxyCF8674MLVo2WkREY3vPK953qE6OFWw481h0iZl_S_-KNXh_TS0zIm56CclKVTj0f61rUgJTaxFP9U_356IC6ZiaiyfVLDxWmviczygTw0UnXwzetHTUCH9IaPl9JdjCuJVy7BYvyeQLt10",
+    img: [
+     "https://blogger.googleusercontent.com/img/a/AVvXsEhObp-GF7PGG-aRGCnZG8rXVDrrsNRA9BmwwYwAdxw4oRBxyCF8674MLVo2WkREY3vPK953qE6OFWw481h0iZl_S_-KNXh_TS0zIm56CclKVTj0f61rUgJTaxFP9U_356IC6ZiaiyfVLDxWmviczygTw0UnXwzetHTUCH9IaPl9JdjCuJVy7BYvyeQLt10 ",
+     "https://blogger.googleusercontent.com/img/a/AVvXsEhCULx4lj5WBuIbZ5tOLyxKfsoV2owKCfMNORGOZINxWfWwOtYL-QTjF22HTZRzf_Zx8rcJZ9hP3qtrNMr3u89Gn90AW5L4ICe-6IOrqNoh569jpZokjTDM9uqj-imBTwBbXPMua7KYMfwtG1LDH7k__1dpurYJ7Abkxq-kyz2CFbRaCkoBcKmfGLqflmU ",
+     "https://blogger.googleusercontent.com/img/a/AVvXsEgygKNrwNhvdC7D-N9__kXNXaOUREqbI4LAC8VLJMCbGGJl_y7Jkwp1Edzr4Ynpfybeh0KGJZBg_QRbEgOSo6SyzuoHAAUXiK2oMqka77EmYG7SjTDmPRSsk-1sYWkAI601tJHCTxJSoacMpqYCUA60TEMfTItOX1tTqYIXd1-6DHzfLcKUi-Xgz22m0i0 ",
+     "https://blogger.googleusercontent.com/img/a/AVvXsEi9Uay2JpGUO3zAv9xVn6QgLZvXHmsWbziYRsHGQQjxC5NXLhJ66mrHxp2p49p5JPD45ijkGWhUSPwaOlRQOCJ1QqTFLFZANazhZlQipv233g4ENrizmA81OqH4uzS1OnfkQGXexU1yBPsumbBd0DIErNgysSS-Z_cYbiSmK_oIOJ1TUM03LIh3-WmyZrM ",
+     
+      ],
+    features: [
+      "User Authentication – Secure login/signup with JWT-based authentication.",
+
+      "Job Listings – Users can browse, filter, and search job opportunities.",
+      
+      "Application Tracking – Users can save and track job applications.",
+      
+      "Admin Panel – Employers can post and manage job listings.",
+      
+      "Real-Time Updates – WebSockets enable instant job status changes.",
+      
+      "Responsive UI – Styled with Tailwind CSS for a seamless experience.",
+      
+    ],
+    technologies: [
+      "React.js (UI development)",
+  "Redux Toolkit (State management)",
+  "Tailwind CSS (Styling)",
+  "Axios (API calls)",
+  "Node.js & Express.js (Server-side logic)",
+  "MongoDB (Database)",
+  "Mongoose (ORM for MongoDB)",
+  "JWT (Authentication)",
+  "WebSockets (Real-time updates)",
+  "Postman (API testing)",
+  "Git & GitHub (Version control)",
+  "Render/vercel (Deployment)",
+  "CSS",
+    ],
+    title: "Vk jobby ",
+    description:
+      "Jobby App is a full-stack job search platform built using the MERN stack. It helps users find job opportunities, apply for positions, and track applications efficiently. The platform includes authentication, job filtering, and real-time updates for job postings.",
+    liveLink: "https://vk-jobby.vercel.app/",
+    codeLink: "https://github.com/vasanth27s/vk-jobby.git",
+  },
+
+  {
+    id: 6,
     mainImage: "https://blogger.googleusercontent.com/img/a/AVvXsEiOiCfAbMH86KeLq-Xgx5XuCDV5LM6mLwFYc_47ihapbx8mnq9r14atIY1s9VrsOO_TFgRrha6rhQqwdSfUkFCKFeBYpZE86OOwOIWmyjGBH-qhcjD0DM9IoVY-_U8O6gMBfnTT_UyDwLRJwigf1TXlZz57Wt1VPSpCBN3YA5smZtNEzLYCBZjTz20hSbc",
     img: [
       "https://blogger.googleusercontent.com/img/a/AVvXsEiOiCfAbMH86KeLq-Xgx5XuCDV5LM6mLwFYc_47ihapbx8mnq9r14atIY1s9VrsOO_TFgRrha6rhQqwdSfUkFCKFeBYpZE86OOwOIWmyjGBH-qhcjD0DM9IoVY-_U8O6gMBfnTT_UyDwLRJwigf1TXlZz57Wt1VPSpCBN3YA5smZtNEzLYCBZjTz20hSbc",
@@ -150,7 +240,7 @@ const Items = [
     codeLink: "https://github.com/vasanth27s/vk-meeting.git",
   },
   {
-    id: 5,
+    id: 7,
     mainImage: "https://blogger.googleusercontent.com/img/a/AVvXsEhxIDI3wjTDotYkYgWd32hVlrFELXCyMBE8QHK0nbtq-PeqNBG7JInx1bGJo3hp77IS3ZV8jeBUBQn45X2WE_Ryydmso7omcFdeuvTk02KSIEYiadRUoqxzzIIfCd0azIll-nQ2jPbBGqE0rYCQaalyJcpq28DSqduITwgsVhCNrny8v6G_vbaTxsdZh54",
     img: [
       "https://blogger.googleusercontent.com/img/a/AVvXsEhxIDI3wjTDotYkYgWd32hVlrFELXCyMBE8QHK0nbtq-PeqNBG7JInx1bGJo3hp77IS3ZV8jeBUBQn45X2WE_Ryydmso7omcFdeuvTk02KSIEYiadRUoqxzzIIfCd0azIll-nQ2jPbBGqE0rYCQaalyJcpq28DSqduITwgsVhCNrny8v6G_vbaTxsdZh54",
