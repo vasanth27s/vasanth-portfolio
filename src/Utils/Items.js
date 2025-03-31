@@ -119,8 +119,57 @@ const Items = [
     liveLink: "https://vk-ig-downloader.vercel.app/",
     codeLink: "https://github.com/vasanth27s/ig-downloader",
   },
-   {
+  {
     id: 4,
+    mainImage: "https://blogger.googleusercontent.com/img/a/AVvXsEgW21oCWM0H08ZaYIRRS8WdqtKs40-eBIes8w-0Y-g35YB6AaJ-EkqQu3dtJfXECl9KgaHJHF7u130Qc7Cbj6BUEOSGFKca59j7Tb5rCSfZac3iYN9_qWZ5ttcsPCC2uUDm_B7qByCPJBvVA0PVYSRiK8FWKIXUvn6_s0tiPBVCGPGaWH5sVs7pGoLf7yM",
+    img: [
+     "https://blogger.googleusercontent.com/img/a/AVvXsEgW21oCWM0H08ZaYIRRS8WdqtKs40-eBIes8w-0Y-g35YB6AaJ-EkqQu3dtJfXECl9KgaHJHF7u130Qc7Cbj6BUEOSGFKca59j7Tb5rCSfZac3iYN9_qWZ5ttcsPCC2uUDm_B7qByCPJBvVA0PVYSRiK8FWKIXUvn6_s0tiPBVCGPGaWH5sVs7pGoLf7yM ",
+     "https://blogger.googleusercontent.com/img/a/AVvXsEha3eIe8yjkahzxki4p5684wgkEh_xLQf_NIgYt9Cuo7mJLiVFYWBtJ-uaAXUBskgoUR8gANg8TbBqje96zQ7iNY5rzIeUc9efeVZLSs6mZyuBZ-JYWEfKce5dxeT854ac4aAGs8V9Pd5LcFB4G9cpd9mzqG5XiLCkrQe_ufgZoAkCVAX3w8NiRs-kKS_E ",
+     "https://blogger.googleusercontent.com/img/a/AVvXsEjW9E2cPyTqsuByDSkwRJGOvwtq6wFg9EFRczmEhRGzZmzCe-4BmtGtvBdP_4qfCF4V1AKyv-_EEvlQaoM5qWWwZeZOggDibOL39r-GAqLg6_F7nR5DPdRwUgmZmchMKjVz17J-_h7AMoTMvIld04SkA8aJLK8eoVQEtI4hRADL4M3jaNPpCR93op6sFlc ", 
+     "https://blogger.googleusercontent.com/img/a/AVvXsEiYcStwsjBYYsJqm5EYWqTq9d_Xyipj5rHB03QzNYT1Qc5rN6BpDTHIPbm1ClACMbTe86ZcbCTLRcjPQOnC0RbSF24lln9EMfggu3FLradUC6Za5paqQi1ZSW8Nfc0RN2S0FFH1T9bWzOcq5FDyORqH-xoSFpRgdgq5PVezxRtW5n3vD7spmTphoBc3Bik ",
+     "https://blogger.googleusercontent.com/img/a/AVvXsEikuicn4z29R6J90ZgUc3EgK5tfSAGPpZrJyH1_Uoo0k_3_36WyaTt_yqn9U8OufnTTAXClXi59PhGRAgiprv9rXAh2Wi-nQW4lVgzJJ2Wc0BMw4YZnCZ9HuUXf16yMDZFDHVU1wqIRQyL7G4WGCVH0zKdhIzULCPoXi0E1_gYZ7k_5BgDpx_v_D6N_X-U ",
+     "https://blogger.googleusercontent.com/img/a/AVvXsEgMG5vBC_Bpqrb_yqLznntMUIbUzQ-CXYLPNoRPhp-UlxmlCLCGOa26KD0i-Nxchr4HIRq3xxLTF53v-s7ubiqtNQYoYtoEXw5WAdezNThrmPcFetcz3FJkqziGI_91iRaaiaFiAxiYUU46Le3RNrxoKAfcDQ8XWDpFvOPsUTeUTkxhJZp2jBACB0G9tmc ",
+     "https://blogger.googleusercontent.com/img/a/AVvXsEinhZIUfHc-GHy3Y7pooSXrjkH9Ir9SFJD_u6rRvi1-r-uA9R4QDHA_GtEzU_TTuQFwwTR7nc9zlK1vs5-jaL-8CzPwx6hTPYSP_2juE4g3JbLNqb1KHdSnW1GfholPAdVseN7VU_ULbEwOFWhA6chSfC91iOIp-LLKxMj2OtJSPHzUlY1Gz_Vj9TsyiUY ",
+      ],
+    features: [
+      "User Authentication – Secure login/signup using JWT authentication.",
+
+      "Restaurant & Menu Browsing – Users can explore different restaurants and their menus.",
+      
+      "Cart & Checkout – Users can add items to the cart and complete orders with secure payment integration.",
+      
+      "Order Tracking – Real-time updates on order status using WebSockets.",
+      
+      "Admin Dashboard – Restaurant owners can manage menus, track orders, and analyze sales.",
+      
+      "Responsive UI – Fully mobile-friendly design with Tailwind CSS.",
+      
+    ],
+    technologies: [
+      
+      "React.js (UI development)",
+      "Redux Toolkit (State management)",
+      "Tailwind CSS (Styling)",
+      "Axios (API calls)",
+      "Node.js & Express.js (Server-side logic)",
+      "MongoDB (Database)",
+      "Mongoose (ORM for MongoDB)",
+      "JWT (Authentication)",
+      "WebSockets (Real-time updates)",
+      "Postman (API testing)",
+      "Git & GitHub (Version control)",
+      "Render/vercel (Deployment)",
+      "CSS",
+     
+    ],
+    title: "Vk Tasty ",
+    description:
+      "The Online Food App is a full-stack MERN-based food ordering platform that allows users to browse restaurants, order food, and track their deliveries in real time. It provides a seamless user experience with secure authentication, a dynamic menu, and an easy checkout process.",
+    liveLink: "https://vk-tasty.vercel.app/",
+    codeLink: "https://github.com/vasanth27s/vk-tasty.git",
+  },
+   {
+    id: 5,
     mainImage: "https://blogger.googleusercontent.com/img/a/AVvXsEjIPsDJV5UX_gA6h6LRZRRvjwP6SB2Qq9iGPxOZV7mz72G5N_Uegy5HHnk7x14jAAhIRgYOohM41KTiehj1PQsjeAknHaxEw7tmlLjM-FSU4R37A3sYW8mNcvbF9b5nL3Vjxay_YXIYPl3uyAvlMwe2h2TK4iyFBWK3nFweZ-O4AmzLVTnGj2oMQkByPsE",
     img: [
      "https://blogger.googleusercontent.com/img/a/AVvXsEjIPsDJV5UX_gA6h6LRZRRvjwP6SB2Qq9iGPxOZV7mz72G5N_Uegy5HHnk7x14jAAhIRgYOohM41KTiehj1PQsjeAknHaxEw7tmlLjM-FSU4R37A3sYW8mNcvbF9b5nL3Vjxay_YXIYPl3uyAvlMwe2h2TK4iyFBWK3nFweZ-O4AmzLVTnGj2oMQkByPsE ",
@@ -164,7 +213,7 @@ const Items = [
     codeLink: "https://github.com/vasanth27s/vk-medi.git",
   },
   {
-    id: 5,
+    id: 6,
     mainImage: "https://blogger.googleusercontent.com/img/a/AVvXsEhObp-GF7PGG-aRGCnZG8rXVDrrsNRA9BmwwYwAdxw4oRBxyCF8674MLVo2WkREY3vPK953qE6OFWw481h0iZl_S_-KNXh_TS0zIm56CclKVTj0f61rUgJTaxFP9U_356IC6ZiaiyfVLDxWmviczygTw0UnXwzetHTUCH9IaPl9JdjCuJVy7BYvyeQLt10",
     img: [
      "https://blogger.googleusercontent.com/img/a/AVvXsEhObp-GF7PGG-aRGCnZG8rXVDrrsNRA9BmwwYwAdxw4oRBxyCF8674MLVo2WkREY3vPK953qE6OFWw481h0iZl_S_-KNXh_TS0zIm56CclKVTj0f61rUgJTaxFP9U_356IC6ZiaiyfVLDxWmviczygTw0UnXwzetHTUCH9IaPl9JdjCuJVy7BYvyeQLt10 ",
@@ -210,7 +259,7 @@ const Items = [
   },
 
   {
-    id: 6,
+    id: 7,
     mainImage: "https://blogger.googleusercontent.com/img/a/AVvXsEiOiCfAbMH86KeLq-Xgx5XuCDV5LM6mLwFYc_47ihapbx8mnq9r14atIY1s9VrsOO_TFgRrha6rhQqwdSfUkFCKFeBYpZE86OOwOIWmyjGBH-qhcjD0DM9IoVY-_U8O6gMBfnTT_UyDwLRJwigf1TXlZz57Wt1VPSpCBN3YA5smZtNEzLYCBZjTz20hSbc",
     img: [
       "https://blogger.googleusercontent.com/img/a/AVvXsEiOiCfAbMH86KeLq-Xgx5XuCDV5LM6mLwFYc_47ihapbx8mnq9r14atIY1s9VrsOO_TFgRrha6rhQqwdSfUkFCKFeBYpZE86OOwOIWmyjGBH-qhcjD0DM9IoVY-_U8O6gMBfnTT_UyDwLRJwigf1TXlZz57Wt1VPSpCBN3YA5smZtNEzLYCBZjTz20hSbc",
@@ -240,7 +289,7 @@ const Items = [
     codeLink: "https://github.com/vasanth27s/vk-meeting.git",
   },
   {
-    id: 7,
+    id: 8,
     mainImage: "https://blogger.googleusercontent.com/img/a/AVvXsEhxIDI3wjTDotYkYgWd32hVlrFELXCyMBE8QHK0nbtq-PeqNBG7JInx1bGJo3hp77IS3ZV8jeBUBQn45X2WE_Ryydmso7omcFdeuvTk02KSIEYiadRUoqxzzIIfCd0azIll-nQ2jPbBGqE0rYCQaalyJcpq28DSqduITwgsVhCNrny8v6G_vbaTxsdZh54",
     img: [
       "https://blogger.googleusercontent.com/img/a/AVvXsEhxIDI3wjTDotYkYgWd32hVlrFELXCyMBE8QHK0nbtq-PeqNBG7JInx1bGJo3hp77IS3ZV8jeBUBQn45X2WE_Ryydmso7omcFdeuvTk02KSIEYiadRUoqxzzIIfCd0azIll-nQ2jPbBGqE0rYCQaalyJcpq28DSqduITwgsVhCNrny8v6G_vbaTxsdZh54",
