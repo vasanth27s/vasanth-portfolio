@@ -17,10 +17,10 @@ import {
   SiAmazonaws,
   SiPython,
   SiPhp,
-  SiC,
   SiLinux,
   SiAdobexd,
   SiTypescript,
+  SiJava,
 } from "react-icons/si";
 import { DiMysql } from "react-icons/di";
 import man from "../../../assets/man.json";
@@ -41,7 +41,7 @@ const MySkill: React.FC = () => {
     },
     { title: "Python", icon: <SiPython className="text-blue-500" /> },
     { title: "PHP", icon: <SiPhp className="text-purple-500" /> },
-    { title: "C", icon: <SiC className="text-blue-600" /> },
+    { title: "Java", icon: <SiJava className="text-blue-600" /> },
   ];
 
   const frameworks: SkillItem[] = [
