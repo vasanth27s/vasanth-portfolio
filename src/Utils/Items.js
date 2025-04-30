@@ -168,8 +168,47 @@ const Items = [
     liveLink: "https://vk-tasty.vercel.app/",
     codeLink: "https://github.com/vasanth27s/vk-tasty.git",
   },
-   {
+  {
     id: 5,
+    mainImage: "https://blogger.googleusercontent.com/img/a/AVvXsEicDn4MsinF3bmisYK-ppkpyZd6oeHKyBUkdtnPcEOvA4FtOuM61cezNNMNCE4X3jDZFz5EIk5d-fSk8fF6bKY9Vaxat9WUGRfUbMIF9WzB9dv5e0ffxwKoQcOEQOBvJjXEo5KP6KXppj3QazSk-wiV7Kjl7CB0A-gcPUvM6QOqzG45Sfgt8bwTQBiiDVI",
+    img: [
+   "https://blogger.googleusercontent.com/img/a/AVvXsEicDn4MsinF3bmisYK-ppkpyZd6oeHKyBUkdtnPcEOvA4FtOuM61cezNNMNCE4X3jDZFz5EIk5d-fSk8fF6bKY9Vaxat9WUGRfUbMIF9WzB9dv5e0ffxwKoQcOEQOBvJjXEo5KP6KXppj3QazSk-wiV7Kjl7CB0A-gcPUvM6QOqzG45Sfgt8bwTQBiiDVI ",
+   "https://blogger.googleusercontent.com/img/a/AVvXsEjhuNJ-8YoMTvGIcrAjAkUKf6f4M7ril82VHJ-n6v6jsOiIlqsB_W542F3QEzPC1oFuTPivC4yMZfiaRgk8zn2-QOOQ9tx5m1zAu7i8AGvDZeFr2f5WHJKmVu0PSgY65OIHw1XoPbtHuDga2g0PRzbIfMPYKVbo3nPjCICLb-tjOcksxVdX4xqdqHKwRdA ",
+
+    ],
+    features: [
+      "Real-Time Messaging – Instant communication powered by Socket.io for seamless user experience.",
+
+      "One-on-One & Group Chats – Support for both private and group conversations.",
+      
+      "Live Typing Indicator – Shows when someone is typing for a more human experience.",
+      
+      "Message Seen & Delivery Status – Know when your message is delivered and read.",
+      
+      "Emoji & Media Support – Express freely with emoji integration and file uploads.",
+      
+      "Responsive UI – Fully responsive design optimized for mobile, tablet, and desktop.",
+      
+    ],
+    technologies: [
+      
+      "React.js (UI development)",
+      "CSS (Styling)",
+      "Python",
+      "huggingface",
+      "Open AI API",
+      "gradio",
+      "CSS",
+     
+    ],
+    title: "Vk Chatbot ",
+    description:
+      "This is a next-gen, AI-powered chatbot designed to deliver real-time, intelligent, and human-like interactions. Built using cutting-edge technologies like React. it supports instant messaging, user authentication, emoji support, and live updates. Whether integrated into a customer support system, productivity tool, or social app, this chatbot reimagines digital conversation—seamless, smart, and scalable. It adapts, learns, and evolves—becoming more intuitive with every exchange",
+    liveLink: "https://ai-chatbot-kappa-two-29.vercel.app/",
+    codeLink: "https://github.com/vasanth27s/ai-chatbot.git",
+  },
+   {
+    id: 6,
     mainImage: "https://blogger.googleusercontent.com/img/a/AVvXsEjIPsDJV5UX_gA6h6LRZRRvjwP6SB2Qq9iGPxOZV7mz72G5N_Uegy5HHnk7x14jAAhIRgYOohM41KTiehj1PQsjeAknHaxEw7tmlLjM-FSU4R37A3sYW8mNcvbF9b5nL3Vjxay_YXIYPl3uyAvlMwe2h2TK4iyFBWK3nFweZ-O4AmzLVTnGj2oMQkByPsE",
     img: [
      "https://blogger.googleusercontent.com/img/a/AVvXsEjIPsDJV5UX_gA6h6LRZRRvjwP6SB2Qq9iGPxOZV7mz72G5N_Uegy5HHnk7x14jAAhIRgYOohM41KTiehj1PQsjeAknHaxEw7tmlLjM-FSU4R37A3sYW8mNcvbF9b5nL3Vjxay_YXIYPl3uyAvlMwe2h2TK4iyFBWK3nFweZ-O4AmzLVTnGj2oMQkByPsE ",
@@ -213,7 +252,7 @@ const Items = [
     codeLink: "https://github.com/vasanth27s/vk-medi.git",
   },
   {
-    id: 6,
+    id: 7,
     mainImage: "https://blogger.googleusercontent.com/img/a/AVvXsEhObp-GF7PGG-aRGCnZG8rXVDrrsNRA9BmwwYwAdxw4oRBxyCF8674MLVo2WkREY3vPK953qE6OFWw481h0iZl_S_-KNXh_TS0zIm56CclKVTj0f61rUgJTaxFP9U_356IC6ZiaiyfVLDxWmviczygTw0UnXwzetHTUCH9IaPl9JdjCuJVy7BYvyeQLt10",
     img: [
      "https://blogger.googleusercontent.com/img/a/AVvXsEhObp-GF7PGG-aRGCnZG8rXVDrrsNRA9BmwwYwAdxw4oRBxyCF8674MLVo2WkREY3vPK953qE6OFWw481h0iZl_S_-KNXh_TS0zIm56CclKVTj0f61rUgJTaxFP9U_356IC6ZiaiyfVLDxWmviczygTw0UnXwzetHTUCH9IaPl9JdjCuJVy7BYvyeQLt10 ",
@@ -259,7 +298,7 @@ const Items = [
   },
 
   {
-    id: 7,
+    id: 8,
     mainImage: "https://blogger.googleusercontent.com/img/a/AVvXsEiOiCfAbMH86KeLq-Xgx5XuCDV5LM6mLwFYc_47ihapbx8mnq9r14atIY1s9VrsOO_TFgRrha6rhQqwdSfUkFCKFeBYpZE86OOwOIWmyjGBH-qhcjD0DM9IoVY-_U8O6gMBfnTT_UyDwLRJwigf1TXlZz57Wt1VPSpCBN3YA5smZtNEzLYCBZjTz20hSbc",
     img: [
       "https://blogger.googleusercontent.com/img/a/AVvXsEiOiCfAbMH86KeLq-Xgx5XuCDV5LM6mLwFYc_47ihapbx8mnq9r14atIY1s9VrsOO_TFgRrha6rhQqwdSfUkFCKFeBYpZE86OOwOIWmyjGBH-qhcjD0DM9IoVY-_U8O6gMBfnTT_UyDwLRJwigf1TXlZz57Wt1VPSpCBN3YA5smZtNEzLYCBZjTz20hSbc",
@@ -289,7 +328,7 @@ const Items = [
     codeLink: "https://github.com/vasanth27s/vk-meeting.git",
   },
   {
-    id: 8,
+    id: 9,
     mainImage: "https://blogger.googleusercontent.com/img/a/AVvXsEhxIDI3wjTDotYkYgWd32hVlrFELXCyMBE8QHK0nbtq-PeqNBG7JInx1bGJo3hp77IS3ZV8jeBUBQn45X2WE_Ryydmso7omcFdeuvTk02KSIEYiadRUoqxzzIIfCd0azIll-nQ2jPbBGqE0rYCQaalyJcpq28DSqduITwgsVhCNrny8v6G_vbaTxsdZh54",
     img: [
       "https://blogger.googleusercontent.com/img/a/AVvXsEhxIDI3wjTDotYkYgWd32hVlrFELXCyMBE8QHK0nbtq-PeqNBG7JInx1bGJo3hp77IS3ZV8jeBUBQn45X2WE_Ryydmso7omcFdeuvTk02KSIEYiadRUoqxzzIIfCd0azIll-nQ2jPbBGqE0rYCQaalyJcpq28DSqduITwgsVhCNrny8v6G_vbaTxsdZh54",
