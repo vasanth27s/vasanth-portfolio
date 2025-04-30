@@ -72,9 +72,8 @@ const About = () => {
               />
             </div>
             <p className="text-neutral font-medium text-center translate-y-[-100%] sm:translate-y-[-0%] sm:mb-2 md:text-left">
-            As a MERN stack developer, I am committed to building high-quality web
-          applications that meet the needs of my clients.in full-stack web development, I specialize in using
-          React.js, Next js, Typescript, MongoDB, Express.js, and Node.js to
+            As a developer, I am committed to building high-quality web
+          applications that meet the needs of my clients.
           create scalable and robust web applications.dedicated to crafting seamless and efficient web applications. With a strong grasp of both front-end and back-end technologies, I excel at creating user-friendly interfaces and robust server-side logic. Passionate about continuous learning, I believe in the transformative power of artificial intelligence in shaping our future. Let's collaborate to bring your innovative ideas to life!
           
            
