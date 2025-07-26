@@ -23,7 +23,7 @@ const Reviews = [
   {
     id: 2,
     name: "vasanth Kumar",
-    bio: " FullStack Developer.",
+    bio: " Software Developer.",
    
     img: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxv67f8ASr-QOHPO0tAcBMtouGTtte7YXZ7_OmzsAum_pi03b7evf3-92cAprgbHUlkA9SJECO7GDfX7tvYdihsyyYL9u7tsXCtLS4pAPpdY8KM1vjw3_qfDDcSUO2tRcSSstVYyB1Ij0bKGhYdqj3fQtADeLc8j8WYo1XF2n9KP7BJL-oU8IUDxHUS5o/s320/1001.jpg",
   },
@@ -50,7 +50,7 @@ const Testimonial = () => {
     infinite: true,
     speed: 500,
     slidesToScroll: 1,
-    slidesToShow: 3,
+    slidesToShow: 1,
     autoplay: true,
     pauseOnHover: true,
     responsive: [

@@ -26,10 +26,10 @@ const Service = () => {
   const services = [
     {
       id: 1,
-      title: "Front End Development",
+      title: "Software Development",
       icon: <DiAtom />,
       description:
-        "As a Front-end developer, I would love to develope any front-end application using React and its libraries.",
+        "As a Software  developer, I would love to develope any Software applications.",
     },
     {
       id: 2,
