@@ -33,7 +33,6 @@ const Education = () => {
               <h3 className="text-2xl font-semibold text-primary">
 Computer Science and Engineering              </h3>
               <p className="text-sm text-neutral font-semibold">2020 - 2024</p>
-              <p className="text-sm text-neutral font-semibold">CGPA 7.3</p>
             </div>
            
           </div>
@@ -47,7 +46,6 @@ Computer Science and Engineering              </h3>
             <p className="text-sm text-neutral font-semibold">2019 - 2020</p>
             <p className="text-sm text-neutral text-justify">
             I have passed the AndhraPradesh Board of  Intermediate  with the
-             result  <b>  CGPA - 6.9 </b>{" "}
             </p>
           </div>
 
@@ -57,8 +55,7 @@ Computer Science and Engineering              </h3>
               <p className="text-sm text-neutral font-semibold">2017 - 2018</p>
             </div>
             <p className="text-sm text-neutral text-justify">
-              I have passed the Secondary School Certificate (SSC) with the
-               result <b>CGPA - 7.2</b>
+              I have passed the Secondary School Certificate (SSC)
             </p>
           </div>
         </div>
