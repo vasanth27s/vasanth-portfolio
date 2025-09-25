@@ -40,8 +40,6 @@ const MySkill: React.FC = () => {
       icon: <SiJavascript className="text-yellow-500 rounded" />,
     },
     { title: "Python", icon: <SiPython className="text-blue-500" /> },
-    { title: "PHP", icon: <SiPhp className="text-purple-500" /> },
-    { title: "C", icon: <SiC className="text-blue-600" /> },
   ];
 
   const frameworks: SkillItem[] = [

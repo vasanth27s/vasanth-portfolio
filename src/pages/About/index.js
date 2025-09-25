@@ -36,7 +36,7 @@ const About = () => {
             }}
           >
             <img
-              src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit2byKDh_wzwIp7wekgaeRrcIkRpGAqK9xCLc9G-zSerX-9M2V2yTPA0c2l5l9MSVmRbWjMYP84WD4eT5mGHp4uXAhyphenhyphenCH1GofsDvCji25J4naU7WY4TKKOSerxuu2XujZHuO6S8-sa8SIcjIjjGDtlQmbnahkaLuQi7CZjftIrOh6WRTF9IXVFJHlIf6Y/s320/1001-removebg-preview.png"
+              src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlHE9fMy14Sr-KkC1ZRxgTLx0XS8My6GW1LmV-NGuji-ylz69aIvlBUy86pgTcz7tcdpFs-HZp7ihilwEWilKN0YXdUxGIOEYYxtBTSMac4hHx6wzLIUco19y4ZZaiPyxnc6DUVEz7CTDrcKWBVwmy6ww54UzF6bn2CGlG1YDqZ8N1iI2ERVZ027j4V_U/s320/1002.JPG"
               alt="Vasanth Kumar"
               className="p-12 w-70 h-70 transform translate-y-[-12%]"
               title="Vasanth Kumar"
@@ -96,9 +96,7 @@ const About = () => {
                 <span className="mr-2 text-primary">Email : </span>
                 vasanth2003s@gmail.com
               </h2>
-              <h2 className="font-medium">
-                <span className="mr-2 text-primary">Address : </span>venkatagiri, AndhraPradesh
-              </h2>
+              
               <a
                 href="https://drive.google.com/file/d/1tnZ5_b2MOUaGsX4xWSGxQsH9EHa3kz_9/view?usp=sharing"
               >
