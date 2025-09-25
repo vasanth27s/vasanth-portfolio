@@ -80,7 +80,7 @@ export default function Navbar() {
 
             <a
               className="inline-block ml-4"
-              href="https://drive.google.com/file/d/1SfjNHQQxCBfx3AK2EyJUzgX-ejOD0-Fy/view?usp=sharing"
+              href="https://drive.google.com/file/d/1tnZ5_b2MOUaGsX4xWSGxQsH9EHa3kz_9/view?usp=sharing"
             >
               <PrimaryBtn>
                 <span>Resume</span>
