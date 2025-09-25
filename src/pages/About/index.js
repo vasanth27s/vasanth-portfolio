@@ -36,7 +36,7 @@ const About = () => {
             }}
           >
             <img
-              src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlHE9fMy14Sr-KkC1ZRxgTLx0XS8My6GW1LmV-NGuji-ylz69aIvlBUy86pgTcz7tcdpFs-HZp7ihilwEWilKN0YXdUxGIOEYYxtBTSMac4hHx6wzLIUco19y4ZZaiPyxnc6DUVEz7CTDrcKWBVwmy6ww54UzF6bn2CGlG1YDqZ8N1iI2ERVZ027j4V_U/s320/1002.JPG"
+              src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwu9676hT1rfStE6Uh9GfF5f92PLYyWmdFDxcZV8cBHxPGV_JD6LbJbbP_xNTG7OBW_ahzmeh5gAr-lbVAWkH2k2N7lCFqor_A-C7G_iiNTd3HXdTENTzFAsvCQDo92R2NXrjqLRHoDCexwv5DDTHIN8v0-xuJ27T9DY4-bv_NIsujbSu0_cCgdZM-6fE/s515/1002-removebg-preview.png"
               alt="Vasanth Kumar"
               className="p-12 w-70 h-70 transform translate-y-[-12%]"
               title="Vasanth Kumar"
